@@ -256,7 +256,7 @@
             <h2>Calidad de Vida en el Trabajo</h2>
             <p align="justify"><em>Igualdad y Diversidad</em><br>
               La universidad está comprometida con la igualdad entre hombres y mujeres y con la lucha contra toda discriminación…leer mas<br>
-              La Universidad Politécnica de Pachuca instaló la Unidad Institucional para la Igualdad entre Hombres y Mujeres y sesiona 3 veces por año. También se firmó el pronunciamiento ¨Cero tolerancia al hostigamiento sexual y al acoso sexual”
+              La Universidad Politécnica de Pachuca instaló la Unidad Institucional para la Igualdad entre Hombres y Mujeres y sesiona 3 veces por año. También se firmó el pronunciamiento ''<a href="https://www.upp.edu.mx/rfront/?p=4815">Cero tolerancia al hostigamiento sexual y al acoso sexual</a>''
 
             <p align="justify"><em>Seguridad y Protección</em><br>
                 La Universidad propicia los medios para reducir los riesgos accidentales e intencionales para crear un entorno seguro para todos sus usuarios...<br>
